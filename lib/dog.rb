@@ -1,5 +1,5 @@
 class Dog
-  fido
+  fido = fido.new
   snoopy
   lassie
 end
